@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31093
     wikipedia: http://nl.wikipedia.org/wiki/Jacob_Jan_Cremer
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28175#De-lelie-van-s-Gravenhage
 gutenberg_issued: '2009-02-24'
 gutenberg_type: Text
 identifiers:
