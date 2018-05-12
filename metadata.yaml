@@ -1,0 +1,31 @@
+_repo: De-lelie-van-s-Gravenhage_28175
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Cremer, Jacobus Jan
+    aliases:
+    - Cremer, J.J.
+    - Cremer, J. J. (Jacobus Jan)
+    birthdate: 1827
+    deathdate: 1880
+    gutenberg_agent_id: '31093'
+    url: http://www.gutenberg.org/2009/agents/31093
+    wikipedia: http://nl.wikipedia.org/wiki/Jacob_Jan_Cremer
+description: ''
+gutenberg_issued: '2009-02-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28175'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Dutch fiction'
+- !lcc 'PT'
+title: De lelie van 's-Gravenhage
+url: http://www.gutenberg.org/ebooks/28175
